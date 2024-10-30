@@ -12,5 +12,5 @@ Este perfil é focado em apresentar os projetos de análise e engenharia de dado
 Estou atualmente mergulhando em temas como machine learning 🤖, visualização de dados 📊, criação de insights e análise preditiva 🔮. Um dos meus projetos em andamento é o desenvolvimento de um ecossistema de clientes: um dashboard interativo que permite aos gestores acompanharem as informações completas dos clientes em relação à empresa.
 
 🌐 Conecte-se Comigo
-LinkedIn[www.linkedin.com/in/igor-alves-analyst] 🔗 
+[LinkedIn](www.linkedin.com/in/igor-alves-analyst) 🔗 
 Email 📧: irgor12@hotmail.com
